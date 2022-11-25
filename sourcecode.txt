@@ -1,3 +1,7 @@
+/*Index.html 
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,8 +18,8 @@
     <div class="chartBox mx-5 my-5" style="width: 400px; text-align: center;">
        
         <canvas id="myChart"></canvas>
-        <a href="/sourcecode.txt" target="_blank">
-            <button>Source Code</button></a>
+        <a href="/Resume.pdf" target="_blank">
+            <button>Source <Code></Code></button></a>
     </div>
 
 
@@ -76,3 +80,26 @@
 </body>
 
 </html>
+
+
+-------------------------------------------------
+
+/*chart.json
+
+
+{
+    "data_s":[
+        {
+            "name":"x",
+            "value":"100"
+        },
+        {
+            "name":"y",
+             "value":"120"
+        },
+        {
+            "name":"z",
+            "value":"50"
+        }
+    ]
+}
